@@ -1,0 +1,19 @@
+{
+  "name": "danicuki-js-lib",
+  "version": "1.0.0",
+  "description": "My cool lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danicuki/danicuki-js-lib.git"
+  },
+  "author": "Daniel Cukier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danicuki/danicuki-js-lib/issues"
+  },
+  "homepage": "https://github.com/danicuki/danicuki-js-lib#readme"
+}
